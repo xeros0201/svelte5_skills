@@ -1,0 +1,12 @@
+{
+  "name": "svelte-skill",
+  "description": "Comprehensive Svelte 5 and SvelteKit development guide with runes, snippets, data loading, form actions, and modern patterns",
+  "version": "1.0.0",
+  "author": {
+    "name": "xeros0201"
+  },
+  "homepage": "https://github.com/xeros0201/svelte5_skills",
+  "repository": "https://github.com/xeros0201/svelte5_skills",
+  "license": "MIT",
+  "keywords": ["svelte", "svelte5", "sveltekit", "runes", "frontend", "web"]
+}
